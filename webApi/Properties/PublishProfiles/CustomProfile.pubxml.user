@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARAMWrAl2LkmPpd44M0b0MAAAAAACAAAAAAAQZgAAAAEAACAAAAAd5vy37NF9J9R9LNsA1kbx78riTDvVGcavb9ouOq7TwgAAAAAOgAAAAAIAACAAAAAqamvUjXchbOiIAQT35BFTMBgDOJRtDAIBiUlZRO75liAAAABlRpPdnqfV5P1MUI93VBKGHl57EIJes8RQRMhaZPO5BUAAAABK3+mmmcrxyAPzpj5mNzJVBXonl+G4wpuZCmo9gTVlpR0U0gYgCP61RudEMiAsYCdU6r64pjJE9Ig0w38LtMLo</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net/webAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/11/2020 00:21:37</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/11/2020 00:21:37</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/13/2020 02:50:04</publishTime>
+    </File>
+    <File Include="webApi.deps.json">
+      <publishTime>03/13/2020 02:50:03</publishTime>
+    </File>
+    <File Include="webApi.dll">
+      <publishTime>03/13/2020 02:50:03</publishTime>
+    </File>
+    <File Include="webApi.exe">
+      <publishTime>03/13/2020 02:50:03</publishTime>
+    </File>
+    <File Include="webApi.pdb">
+      <publishTime>03/13/2020 02:50:03</publishTime>
+    </File>
+    <File Include="webApi.runtimeconfig.json">
+      <publishTime>03/13/2020 02:46:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

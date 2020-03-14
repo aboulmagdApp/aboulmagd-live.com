@@ -1,0 +1,5 @@
+- dotnet new webapi --no-https             =========> create dotNetCore webAPI project
+- dotnet new web                           =========> create ASP.NET Core Empty
+- dotnet new sln                           =========> create solution for project
+- dotnet sln add webApi.csproj             =========> add project to solution
+- dotnet new classlib --name <libName>     =========> create new classlib 
